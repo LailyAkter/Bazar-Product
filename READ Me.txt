@@ -1,0 +1,2 @@
+import the sql file from sql folder 
+after that run command : php artisan storage:link
